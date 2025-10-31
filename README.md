@@ -9,7 +9,7 @@
 ## ⚙️ Assignment 2  
 **Frontend:**  
 [![Vercel](https://img.shields.io/badge/Frontend-Vercel-black?logo=vercel)](https://pathlock-assignment-two.vercel.app/)  
-🔗 **Live Link:** [https://pathlock-assignment-two.vercel.app/](https://pathlock-assignment-two.vercel.app/)
+🔗 **Live Link:** [https://pathlock-assignment-h2xv.vercel.app/)
 
 **Backend:**  
 [![Render](https://img.shields.io/badge/Backend-Render-blue?logo=render)](https://pathlock-assignment2-backend.onrender.com/)  
